@@ -442,7 +442,7 @@ const abi = [
     type: "function",
   },
 ];
-const contractAddress = "0x0a8bBe90DBa0f820C88526b522152A0595c6Bf5e";
+const contractAddress = "0xD16D69f054c93B62F8c7C6b693a9Cb6ae1C365B2";
 
 const getAccountAddress = async () => {
   const { ethereum } = window;
